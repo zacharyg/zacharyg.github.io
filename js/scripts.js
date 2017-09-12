@@ -16,19 +16,19 @@ window.onload = function() {
     var hours =  date.getHours();
     var minutes =  date.getMinutes();
     var current = hours + (minutes * .01);
-    if (current >= 5 && current < 19) return 'Have a nice day';
-    if (current >= 19 && current < 22) return 'Have a nice evening';
-    if (current >= 22 || current < 5) return 'Have a good night';
+    if (current >= 5 && current < 19) return 'Have a nice day 🌴';
+    if (current >= 19 && current < 22) return 'Have a nice evening 🌙';
+    if (current >= 22 || current < 5) return 'Have a good night 🌙';
   }
 
   var messages = [
-    'Hey there 👋',
-    'I\'m Julian',
-    'I design and code things on the web',
-    'I\'m currently accepting freelance work.<br> You can contact me at <a href="mailto:hello@julian.gr">hello@julian.gr</a>',
-    '<a target="_blank" href="https://twitter.com/juliangarnier">twitter.com/juliangarnier</a><br><a target="_blank" href="https://codepen.io/juliangarnier">codepen.io/juliangarnier</a><br><a target="_blank" href="https://github.com/juliangarnier">github.com/juliangarnier</a>',
+    'Hello 🐙',
+    'I\'m Zac West',
+    'I make music and stuff on the web',
+    'I\'m currently available for ghostwriting and production.<br> You can contact me at <a href="mailto:zac.psn@gmail.com">zac.psn@gmail.com</a>',
+    'Rap: <a target="_blank" href="https://yungsage28.tumblr.com/">yungsage.asia</a><br>Beats: <a target="_blank" href="https://soundcloud.com/pockyhunter">soundcloud.com/pockyhunter</a><br>Design/Code: <a target="_blank" href="https://zacguo.me/">zacguo.me</a>',
     getCurrentTime(),
-    '👀 J.'
+    '<a target="_blank" href="https://instagram.com/zacwest.png">@zacwest.png</a>'
   ]
 
   var getFontSize = function() {
