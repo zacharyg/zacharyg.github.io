@@ -28,7 +28,7 @@ window.onload = function() {
     'I\'m currently available for ghostwriting and production.<br> You can contact me at <a href="mailto:zac.psn@gmail.com">zac.psn@gmail.com</a>',
     'Rap: <a target="_blank" href="http://smarturl.it/ys28">smarturl.it/ys28</a><br>Beats: <a target="_blank" href="https://soundcloud.com/pockyhunter">soundcloud.com/pockyhunter</a>',
     getCurrentTime(),
-    '<a target="_blank" href="https://instagram.com/yungsage28">@yungsage28</a>'
+    '<a target="_blank" href="https://instagram.com/whoiszacwest">@whoiszacwest</a>'
   ]
 
   //<br>Design/Code: <a target="_blank" href="http://zacguo.me/">zacguo.me</a>
