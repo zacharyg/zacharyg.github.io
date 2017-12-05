@@ -26,7 +26,7 @@ window.onload = function() {
     'I\'m Zac West',
     'I make music and stuff on the web',
     'I\'m currently available for ghostwriting and production.<br> You can contact me at <a href="mailto:zac.psn@gmail.com">zac.psn@gmail.com</a>',
-    'Rap: <a target="_blank" href="http://smarturl.it/ys28">smarturl.it/ys28</a><br>Beats: <a target="_blank" href="https://soundcloud.com/pockyhunter">soundcloud.com/pockyhunter</a>',
+    'Rap: <a target="_blank" href="http://smarturl.it/zacwest">smarturl.it/zacwest</a><br>Beats: <a target="_blank" href="https://soundcloud.com/pockyhunter">soundcloud.com/pockyhunter</a>',
     getCurrentTime(),
     '<a target="_blank" href="https://instagram.com/whoiszacwest">@whoiszacwest</a>'
   ]
