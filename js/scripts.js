@@ -24,11 +24,10 @@ window.onload = function() {
   var messages = [
     'Hello 🦇',
     'I\'m Zac West',
-    'I make music and stuff on the web',
-    'I\'m currently available for ghostwriting and production.<br> You can contact me at <a href="mailto:zac.psn@gmail.com">zac.psn@gmail.com</a>',
-    'Rap: <a target="_blank" href="http://smarturl.it/zacwest">smarturl.it/zacwest</a><br>Beats: <a target="_blank" href="https://soundcloud.com/pockyhunter">soundcloud.com/pockyhunter</a>',
-    getCurrentTime(),
-    '<a target="_blank" href="https://instagram.com/whoiszacwest">@whoiszacwest</a>'
+    'I design <a target="_blank" href="https://www.behance.net/zacwest">apps</a>, <a target="_blank" href="http://zac-west.com/">websites</a>, and <a target="_blank" href="http://zacwest.bigcartel.com/">clothes</a>.',
+    'You can contact me at <a href="mailto:zac.psn@gmail.com">zac.psn@gmail.com</a>',
+    'Looking for cover art?</br>👉 <a target="_blank" href="https://instagram.com/goodnightzac">@goodnightzac</a>',
+    getCurrentTime()
   ]
 
   //<br>Design/Code: <a target="_blank" href="http://zacguo.me/">zacguo.me</a>
