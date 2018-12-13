@@ -26,7 +26,7 @@ window.onload = function() {
     'I\'m Zac West',
     'I design <a target="_blank" href="https://www.behance.net/zacwest">apps</a>, <a target="_blank" href="http://zac-west.com/">websites</a>, and <a target="_blank" href="http://zacwest.bigcartel.com/">clothes</a>.',
     'You can contact me at <a href="mailto:zac.psn@gmail.com">zac.psn@gmail.com</a>',
-    'Looking for cover art?</br>👉 <a target="_blank" href="https://instagram.com/goodnightzac">@goodnightzac</a>',
+    'Looking for cover art?</br>👉 <a target="_blank" href="https://imgur.com/a/Joa9VjV">@goodnightzac</a>',
     getCurrentTime()
   ]
 
