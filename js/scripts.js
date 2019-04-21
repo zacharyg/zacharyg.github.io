@@ -24,7 +24,7 @@ window.onload = function() {
   var messages = [
     'Hello 🦇',
     'I\'m Zac West',
-    'I design <a target="_blank" href="https://www.behance.net/zacwest">apps</a>, <a target="_blank" href="http://zac-west.com/">websites</a>, and make music <a target="_blank" href="http://zacwest.bigcartel.com/">clothes</a>.',
+    'I design <a target="_blank" href="https://www.behance.net/zacwest">apps</a>, <a target="_blank" href="http://zac-west.com/">websites</a>, and make <a target="_blank" href="http://smarturl.it/lilchaosjr">music</a>.',
     'You can contact me at <a href="mailto:zac.psn@gmail.com">zac.psn@gmail.com</a>',
     getCurrentTime()
   ]
